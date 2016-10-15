@@ -58,6 +58,7 @@ namespace Resx2Xls
 
         void radioButton_CheckedChanged(object sender, EventArgs e)
         {
+            //Om changes
             this.radioButtonCreateXls.CheckedChanged -= new EventHandler(radioButton_CheckedChanged);
             this.radioButtonBuildXls.CheckedChanged -= new EventHandler(radioButton_CheckedChanged);
             this.radioButtonUpdateXls.CheckedChanged -= new EventHandler(radioButton_CheckedChanged);
@@ -85,6 +86,7 @@ namespace Resx2Xls
                     this.radioButtonBuildXls.Checked = false;
                     this.radioButtonUpdateXls.Checked = false;
                 }
+                //asdkjakjsjkasd
 
                 if (((RadioButton)sender) == this.radioButtonBuildXls)
                 {
@@ -101,6 +103,7 @@ namespace Resx2Xls
             this.radioButtonCreateXls.CheckedChanged += new EventHandler(radioButton_CheckedChanged);
             this.radioButtonBuildXls.CheckedChanged += new EventHandler(radioButton_CheckedChanged);
             this.radioButtonUpdateXls.CheckedChanged += new EventHandler(radioButton_CheckedChanged);
+            //kjsakjdjkasd
         }
 
         public void ResxToXls(string path, bool deepSearch, string xslFile, string[] cultures, string[] excludeList, bool useFolderNamespacePrefix)
@@ -111,7 +114,7 @@ namespace Resx2Xls
                     return;
 
                 ResxData rd = ResxToDataSet(path, deepSearch, cultures, excludeList, useFolderNamespacePrefix);
-
+                //sdkjakjsdjksasd
                 DataSetToXls(rd, xslFile);
 
                 ShowXls(xslFile);
@@ -178,7 +181,7 @@ namespace Resx2Xls
 
                                     if (String.IsNullOrEmpty(fileDest))
                                         break;
-
+                                    //asdkjaskjjasd
                                     string f = pathCulture + @"\" + JustStem(fileDest) + "." + cult + ".resx";
 
                                     rw = new ResXResourceWriter(f);
