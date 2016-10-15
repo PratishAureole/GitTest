@@ -24,7 +24,7 @@ namespace Resx2Xls
             {
                 return 1;
             }
-            if (!(x is CultureInfo))
+            if (!(x is CultureInfo)) //fksjdfjksdkjf
             {
                 throw new ArgumentException("Can only compare CultureInfo objects.", "x");
             }
