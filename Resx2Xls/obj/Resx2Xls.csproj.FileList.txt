@@ -1,0 +1,13 @@
+bin\Release\Resx2Xls.exe.config
+bin\Release\Resx2Xls.exe
+bin\Release\Resx2Xls.pdb
+bin\Release\WizardBase.dll
+bin\Release\Microsoft.Office.Interop.Excel.dll
+bin\Release\Office.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Resx2Xls.csproj.ResolveComReference.cache
+obj\Release\Resx2Xls.Properties.Resources.resources
+obj\Release\Resx2Xls.Resx2XlsForm.resources
+obj\Release\Resx2Xls.csproj.GenerateResource.Cache
+obj\Release\Resx2Xls.exe
+obj\Release\Resx2Xls.pdb

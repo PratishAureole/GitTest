@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Resx2Xls">
+</Property><Property Name="Solution File" Value="D:\Aureole\Experiments\Resx2Xls\Resx2Xls.sln">
+</Property><Property Name="Date" Value="Monday, May 11, 2015">
+</Property><Property Name="Time" Value="11:04 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Resx2Xls.sln" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls.sln">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resx2Xls.csproj" Description="Project file successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resx2Xls.csproj">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\CultureInfoComparer.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\CultureInfoComparer.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resx2XlsForm.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resx2XlsForm.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resx2XlsForm.Designer.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resx2XlsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Program.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Program.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\ResxData.Designer.cs" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\ResxData.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\app.config" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\app.config">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Properties\Settings.settings" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\ResxData.xsc" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\ResxData.xsc">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\ResxData.xsd" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\ResxData.xsd">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\ResxData.xss" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\ResxData.xss">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resources\leftbar.png" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resources\leftbar.png">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resources\icon.png" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resources\icon.png">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resources\topbar.png" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resources\topbar.png">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resources\finishbar.png" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resources\finishbar.png">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Properties\Resources.resx" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resx2XlsForm.resx" Description="File successfully backed up as D:\Aureole\Experiments\Resx2Xls\Backup\Resx2Xls\Resx2XlsForm.resx">
+</Event><Event ErrorLevel="1" Project="Resx2Xls" Source="Resx2Xls\Resx2Xls.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resx2Xls.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Resx2Xls" Source="Resx2Xls\Resx2Xls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Resx2Xls.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Resx2Xls.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Resx2Xls" Source="Resx2Xls\Resx2Xls.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
