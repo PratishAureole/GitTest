@@ -28,3 +28,7 @@ D:\GitTest\GitTest\Resx2Xls\bin\Debug\Resx2Xls.exe.config
 D:\GitTest\GitTest\Resx2Xls\obj\Debug\Resx2Xls.csproj.ResolveComReference.cache
 D:\GitTest\GitTest\Resx2Xls\obj\Debug\Resx2Xls.exe
 D:\GitTest\GitTest\Resx2Xls\obj\Debug\Resx2Xls.pdb
+D:\Office\Test\GitTest\Resx2Xls\bin\Debug\Resx2Xls.exe.config
+D:\Office\Test\GitTest\Resx2Xls\obj\Debug\Resx2Xls.csproj.ResolveComReference.cache
+D:\Office\Test\GitTest\Resx2Xls\obj\Debug\Resx2Xls.exe
+D:\Office\Test\GitTest\Resx2Xls\obj\Debug\Resx2Xls.pdb

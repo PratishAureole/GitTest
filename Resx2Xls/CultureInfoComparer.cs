@@ -14,11 +14,11 @@ namespace Resx2Xls
         {
             if (((x == null) && (y == null)) || x.Equals(y))
             {
-                return 0;
+                return 0;  // Santhosh comments
             }
             if (x.Equals(CultureInfo.InvariantCulture) || (y == null))
             {
-                return -1;
+                return -1;  // Santhosh Comments
             }
             if (y.Equals(CultureInfo.InvariantCulture) || (x == null))
             {
@@ -26,15 +26,20 @@ namespace Resx2Xls
             }
             if (!(x is CultureInfo)) //fksjdfjksdkjf
             {
-                throw new ArgumentException("Can only compare CultureInfo objects.", "x");
+                throw new ArgumentException("Can only compare Santhosh objects.", "x");
             }
             string displayName = ((CultureInfo)x).DisplayName;
             if (!(y is CultureInfo))
             {
-                throw new ArgumentException("Can only compare CultureInfo objects.", "y");
+                throw new ArgumentException("Can only compare Santhosh objects.", "y");
             }
             string strB = ((CultureInfo)y).DisplayName;
             return displayName.CompareTo(strB);
+        }
+
+        public void TestSanthoshMethod()
+        {
+            // new method added by asnthosh;
         }
     }
 
