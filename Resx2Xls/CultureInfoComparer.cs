@@ -15,6 +15,7 @@ namespace Resx2Xls
             if (((x == null) && (y == null)) || x.Equals(y))
             {
                 return 0;  // Santhosh comments
+                // new latest changes
             }
             if (x.Equals(CultureInfo.InvariantCulture) || (y == null))
             {
@@ -26,12 +27,12 @@ namespace Resx2Xls
             }
             if (!(x is CultureInfo)) //fksjdfjksdkjf
             {
-                throw new ArgumentException("Can only compare Santhosh objects.", "x");
+                throw new ArgumentException("Can", "x");
             }
             string displayName = ((CultureInfo)x).DisplayName;
             if (!(y is CultureInfo))
             {
-                throw new ArgumentException("Can only compare Santhosh objects.", "y");
+                throw new ArgumentException("Can.", "y");
             }
             string strB = ((CultureInfo)y).DisplayName;
             return displayName.CompareTo(strB);
